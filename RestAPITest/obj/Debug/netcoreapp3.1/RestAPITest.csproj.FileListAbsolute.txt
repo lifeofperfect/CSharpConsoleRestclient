@@ -1,0 +1,16 @@
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\bin\Debug\netcoreapp3.1\RestAPITest.exe
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\bin\Debug\netcoreapp3.1\RestAPITest.deps.json
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\bin\Debug\netcoreapp3.1\RestAPITest.runtimeconfig.json
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\bin\Debug\netcoreapp3.1\RestAPITest.runtimeconfig.dev.json
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\bin\Debug\netcoreapp3.1\RestAPITest.dll
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\bin\Debug\netcoreapp3.1\RestAPITest.pdb
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\obj\Debug\netcoreapp3.1\RestAPITest.csprojAssemblyReference.cache
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\obj\Debug\netcoreapp3.1\RestAPITest.AssemblyInfoInputs.cache
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\obj\Debug\netcoreapp3.1\RestAPITest.AssemblyInfo.cs
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\obj\Debug\netcoreapp3.1\RestAPITest.csproj.CoreCompileInputs.cache
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\obj\Debug\netcoreapp3.1\RestAPITest.dll
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\obj\Debug\netcoreapp3.1\RestAPITest.pdb
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\obj\Debug\netcoreapp3.1\RestAPITest.genruntimeconfig.cache
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\obj\Debug\netcoreapp3.1\RestAPITest.csproj.CopyComplete
+C:\Users\A240940\Desktop\Practice\RestAPITest\RestAPITest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
